@@ -92,7 +92,7 @@ Monitor EXT_SOURCE dan payment behavior sebagai sinyal peringatan dini
 ├── README.md                          # Project documentation
 ├── Home_Credit_Analysis.ipynb         # Full analysis (307K samples, 329 features)
 ├── Home_Credit_Presentation.pdf       # Business presentation (10 slides)
-└── submission_home_credit.csv                     # Submission file
+└── submission_home_credit.csv         # Submission file
 ```
 
 ---
